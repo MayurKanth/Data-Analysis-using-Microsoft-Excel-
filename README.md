@@ -36,7 +36,7 @@ Vrinda store wants to understand the growth centres of their business from the s
 
 7.Bengaluru, Hyderabad, NewDelhi, Chennai, Mumbai, Pune, Kolkata, Lucknow, Gurugram and Noida were the Top 10 cities.
 
-8. Adult Women contributed the most to sales (55.79%)  
+8.Adult Women contributed the most to sales (55.79%)  
 
 
 
