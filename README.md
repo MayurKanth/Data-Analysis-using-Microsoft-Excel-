@@ -1,7 +1,7 @@
-# Data-Analysis-using-Microsoft-Excel-
+# Data Analysis using Microsoft Excel
 
 
-# Project Overview:-
+# Project Overview
 Vrinda store wants to understand the growth centres of their business from the sales data of FY2022 and increase their revenue in next year.
 
 # KPI's
